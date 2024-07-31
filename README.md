@@ -2,7 +2,7 @@
 
 Hello! I'm **Mrwan Atef**, a passionate student of Mathematics, Computer Science, and Data Engineering. I love solving complex problems, writing clean and efficient code, and turning data into actionable insights. 
 
-![My role](C:\Users\sh2\Saved Games\Pictures\Screenshots\Screenshot 2024-07-31 032317.png)
+![My role](https://files.realpython.com/media/What-is-Data-Engineering_Watermarked.607e761a3c0e.jpg)
 
 ## 🎓 Education
 - **Mathematics** 🧮
