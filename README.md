@@ -1,6 +1,6 @@
 # 👨‍💻 Welcome to My GitHub Profile!
 
-Hello! I'm [Mrwan Atef], a passionate student of Mathematics, Computer Science, and Data Engineering. I love solving complex problems, writing clean and efficient code, and turning data into actionable insights. 
+Hello! I'm **Mrwan Atef**, a passionate student of Mathematics, Computer Science, and Data Engineering. I love solving complex problems, writing clean and efficient code, and turning data into actionable insights. 
 
 ## 🎓 Education
 - **Mathematics** 🧮
@@ -35,7 +35,7 @@ Here are some of the projects I’ve worked on:
 3. **Project Name 3:** A brief description of the project. [GitHub Link](https://github.com/yourusername/project3)-->
 
 ## 🤝 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/feed/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/feed/)
 - **Email:** ma6655@fayoum.edu.eg
 
 
