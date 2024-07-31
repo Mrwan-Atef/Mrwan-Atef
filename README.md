@@ -2,9 +2,7 @@
 
 Hello! I'm **Mrwan Atef**, a passionate student of Mathematics, Computer Science, and Data Engineering. I love solving complex problems, writing clean and efficient code, and turning data into actionable insights. 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="C:\Users\sh2\Saved Games\Pictures\Screenshots\Screenshot 2024-07-31 032317.png">
-  <source media="(prefers-color-scheme: light)" srcset="C:\Users\sh2\Saved Games\Pictures\Screenshots\Screenshot 2024-07-31 032317.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="C:\Users\sh2\Saved Games\Pictures\Screenshots\Screenshot 2024-07-31 032317.png">
+  <srcset="C:\Users\sh2\Saved Games\Pictures\Screenshots\Screenshot 2024-07-31 032317.png">
 </picture>
 ## 🎓 Education
 - **Mathematics** 🧮
