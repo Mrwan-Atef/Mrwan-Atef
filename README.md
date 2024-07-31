@@ -1,7 +1,8 @@
 # 👨‍💻 Welcome to My GitHub Profile!
 
 Hello! I'm **Mrwan Atef**, a passionate student of Mathematics, Computer Science, and Data Engineering. I love solving complex problems, writing clean and efficient code, and turning data into actionable insights. 
-![My role]("C:\Users\sh2\Saved Games\Pictures\Screenshots\Screenshot 2024-07-31 032317.png")
+
+![My role](C:\Users\sh2\Saved Games\Pictures\Screenshots\Screenshot 2024-07-31 032317.png)
 
 ## 🎓 Education
 - **Mathematics** 🧮
