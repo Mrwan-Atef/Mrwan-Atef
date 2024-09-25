@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marwan Atef</h1>
-<h3 align="center">Studying Mathematics and Computer Science ,
+<h3 align="center">Studying Mathematics , A passionate computer science student, highly motivated about machine learning, with a passion for data science,  problem-solving and,
 Microsoft Data Engineering</h3>
 
 <h3 align="left">Connect with me:</h3>
