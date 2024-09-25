@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marwan-atef-723aa725a/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bag6ck66lsdgsoc7p7iquha%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marwan-atef-723aa725a/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bag6ck66lsdgsoc7p7iquha%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marwan-atef-723aa725a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan-atef-723aa725a" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mrwan-lll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mrwan-lll" height="30" width="40" /></a>
 </p>
 
